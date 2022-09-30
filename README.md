@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Revalina</h1>
 <h3 align="center">I'm student at SMK TELKOM MALANG</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/07/7e/9f/077e9ff88b34211608a074fbdd1f3bc5.jpg"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/45/55/11/455511b1b8d9937bb193fa4125bf1be5.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reprepaa&label=Profile%20views&color=0e75b6&style=flat" alt="reprepaa" /> </p>
 
